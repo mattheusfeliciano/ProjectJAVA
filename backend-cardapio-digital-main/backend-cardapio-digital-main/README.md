@@ -33,25 +33,10 @@ E por fim, entre no arquivo da classe `CardapioApllication` para executar o proj
 
 <img width="300px" src="./.github/executar.png">
 
-<h2 id="related">🫂 Integração com Frontend</h2>
-
-Para realizar a integração com o Frontend, você pode clonar o projeto e rodar localmente, ou desenvolver você mesmo seguindo o tutorial no Youtube.
-
-👉 [Desenvolvendo o Frontend desse Cardápio Digital com React e Typescript](https://www.youtube.com/watch?v=WHruc3_2z68)
-
-👉 [Link do repositório](https://github.com/Fernanda-Kipper/frontend-cardapio-digital)
-
 
 <h2 id="related">📝 Licença</h2>
 
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para obter mais informações.
 
 
-## 📱 Minhas Redes
-
-Meu site: [fernandakipper.com](https://www.fernandakipper.com) &nbsp;&middot;&nbsp; 
-
-Instagram: [@kipper.dev](https://github.com/kipper.devb) &nbsp;&middot;&nbsp;
-
-YouTube [@kipperdev](https://www.youtube.com/@kipperdev) &nbsp;&middot;&nbsp;
 
