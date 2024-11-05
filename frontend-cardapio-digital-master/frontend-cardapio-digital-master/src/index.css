@@ -55,7 +55,7 @@ nav ul li a:hover {
 
 /* Seção principal */
 .first-section {
-  background: url('src/img/background.jpg') no-repeat center center/cover;
+  background: url('src/img/background.png') no-repeat center center/cover;
   color: white;
   padding: 60px 20px;
   text-align: center;
